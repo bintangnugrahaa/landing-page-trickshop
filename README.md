@@ -1,14 +1,12 @@
-# Responsive Halloween Website 🎃
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
-### Responsive Halloween Website 🎃
+# Responsive Trickshop Website 🎃
 
-- Responsive Halloween Website Using HTML, CSS & JavaScript.
-- Contains animations when scrolling.
-- It has three color designs (green, red and black)
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+### Responsive Trickshop Website 🎃
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Website Halloween Responsif dengan HTML, CSS, & JavaScript.
+- Memiliki animasi saat di-scroll.
+- Terdapat tiga desain warna (hijau, merah, dan hitam).
+- Scrolling lancar di setiap bagian.
+- Dikembangkan terlebih dahulu dengan metodologi Mobile First, kemudian untuk desktop.
+- Kompatibel dengan semua perangkat mobile dan dengan antarmuka pengguna yang indah dan menyenangkan.
 
 ![halloween](/preview.png)
